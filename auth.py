@@ -12,8 +12,8 @@ SESSION_FILE = "data/session.json"
 
 # Dummy user credentials (extend if needed)
 USER_CREDENTIALS = {
-    "user@example.com": "password123",
-    "admin@mscproject.com": "admin2025"
+    "user@example.com": "000006789",
+    "admin@mscproject.com": "0903493838"
 }
 
 def _persist_session(email):
